@@ -1,0 +1,3 @@
+const postagens = []
+
+export { postagens }
