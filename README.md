@@ -12,4 +12,4 @@ ou
 npx expo start --tunnel
 
 Observação: Por conta da biblioteca @dicebear/avataaars, @dicebear/avatars-avataaars-sprites e
-react-native-svg, não será possível iniciar a aplicação na web com npx expo start -w. 
+react-native-svg, não será possível iniciar a aplicação na web com npx expo start -w.
